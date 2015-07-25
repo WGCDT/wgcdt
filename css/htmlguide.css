@@ -4,6 +4,12 @@ body{
 img{
     max-width:100%;
 }
+
+
+
+
+
+/* FOR BLOCKS OF CODE */
 pre {
     overflow: auto;
     padding:10px;
@@ -49,4 +55,21 @@ li.L1,li.L3,li.L5,li.L7,li.L9{
 xmp{
     margin:0;
     padding:0;
+}
+
+
+
+
+/* THUMBNAILS FOR GALLERIES */
+.series_thumb{
+	float:left;
+	padding: 5px; border: solid 1px #EFEFEF; 
+	margin:10px;
+}
+
+a:hover .series_thumb {
+	border: solid 1px #CCC;
+	-moz-box-shadow: 1px 1px 5px #999;
+	-webkit-box-shadow: 1px 1px 5px #999;
+	box-shadow: 1px 1px 5px #999;
 }
