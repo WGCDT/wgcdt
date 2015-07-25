@@ -7,6 +7,11 @@ img{
 
 
 
+nav.navbar.navbar-fixed-top {
+  background-color: white;
+  border-bottom: 1px solid rgb(23,170,141);
+}
+
 
 
 /* FOR BLOCKS OF CODE */
