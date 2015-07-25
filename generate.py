@@ -1,4 +1,9 @@
-""" CS4HS Website Generator
+
+""" 
+HTMLGuide Website generator (GPLv3)
+
+Originally @ https://github.com/uccser/cs4hs:
+CS4HS Website Generator
 AUTHOR: Jack Morgan
 REQUIRES: Python >= 3.4.1
 """
